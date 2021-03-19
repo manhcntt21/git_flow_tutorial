@@ -11,6 +11,8 @@ Cach1: git branch develop, sau do checkout sang nhanh do, git checkout develop
 Cach2: git checkout -b develop
 2 push nhanh develop len remote
 
+Tuong duong voi lenh:
 
-
+git flow init
+======================================================================
 
