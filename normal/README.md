@@ -44,9 +44,10 @@ Thu 3: merge branch feature vao branch develop
 
 	git merge feature/feature
 
+3 git branch -d feature/feature
 tuong duong voi
 
 git flow feature finish feature_branch
-
+	
 ======================================================================
 
